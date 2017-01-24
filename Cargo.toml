@@ -1,0 +1,8 @@
+[package]
+name = "wordtest"
+version = "0.1.0"
+authors = ["Aaron Alexander <aarona.arduino@gmail.com>"]
+
+[dependencies]
+conrod = "*"
+piston_window = "*"
