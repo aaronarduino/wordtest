@@ -6,3 +6,4 @@ authors = ["Aaron Alexander <aarona.arduino@gmail.com>"]
 [dependencies]
 conrod = "*"
 piston_window = "*"
+find_folder = "*"
